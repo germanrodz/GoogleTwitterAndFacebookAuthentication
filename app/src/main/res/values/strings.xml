@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GoogleTwitterAndFacebookAuthentication</string>
+    <string name="twitter_consumer_key" translatable="false">475809614-2jfQoOJUaVBLTyk6j7ElFTv7bKdr3NDzAQvaxikV</string>
+    <string name="twitter_consumer_secret" translatable="false">1Pe6Jwvl069XnXx5WrwIopjcI2rVBkWkGw9pM4DelEBxf</string>
+
+    <string name="facebook_app_id">166766027216339</string>
+    <string name="fb_login_protocol_scheme">fb166766027216339</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
